@@ -1,8 +1,8 @@
 # 搭建 Steam 游戏服务器
 
-:::tip
+tips:
 如果你<b>是 Linux 服务器</b>，我们推荐你使用 Docker 镜像来部署你的 Steam 游戏服务器，请参考「使用 Docker 镜像部署」章节。
-:::
+
 
 ## 下载 Steam 服务器程序
 
@@ -53,3 +53,7 @@
 如果 `RCON 协议` 都无法成功发送命令，那么可能 `MCSManager` 对此类型的 Steam 游戏服务器不支持。
 
 可以尝试使用 `Linux + Docker` 组合来架设你的 Steam 服务器，这种兼容性通常是最高的。
+
+### 目录
+
+[java版](https://capslock800000.github.io/mcsmanagerdocs/setup_java_edition)  [基岩版](https://capslock800000.github.io/mcsmanagerdocs/setup_bedrock_edition)  [Docker安装](https://capslock800000.github.io/mcsmanagerdocs/docker-install)  [其他使用场景](https://capslock800000.github.io/mcsmanagerdocs/setup_any_software)  [使用Docker部署服务器](https://capslock800000.github.io/mcsmanagerdocs/setup_docker_image)  [一键部署java版](https://capslock800000.github.io/mcsmanagerdocs/setup_package)  [部署steam游戏服务器](https://capslock800000.github.io/mcsmanagerdocs/setup_steam)
