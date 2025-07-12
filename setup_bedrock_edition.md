@@ -91,3 +91,6 @@
 ### 启动正常，但无法进入游戏服务器？
 
 这种情况多半是**安全组没放行**，请在**服务商安全组面板放行你的服务端端口**，并在**系统防火墙**一并放行。​ 如果还是无法连接，请联系你的服务商检查网络情况。
+
+### 目录
+[主页](https://capslock800000.github.io/mcsmanagerdocs)  [java版](https://capslock800000.github.io/mcsmanagerdocs/setup_java_edition)
