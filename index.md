@@ -107,3 +107,7 @@ tar --strip-components=1 -xzvf mcsmanager_linux_release.tar.gz
 ### 如何关闭？
 
 在面板两个终端控制台窗口输入 `Ctrl+C` 即可正常关闭。
+
+### 其他页面
+
+[java版](https://capslock800000.github.io/mcsmanagerdocs/setup_java_edition)
