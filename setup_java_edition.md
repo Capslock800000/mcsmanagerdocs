@@ -1,6 +1,6 @@
 # 搭建 Minecraft Java 版服务器
 
-:::tip
+tips
 本章节已默认你配置好了 Java 环境，如果没有请参考「一键搭建 Java 版」前半部分章节。
 :::
 
@@ -28,7 +28,7 @@
 java -Dfile.encoding=UTF-8 -jar "刚刚下载的jar文件名，例如：paper-1.19.4-516.jar"
 ```
 
-:::tip
+tips
 启动命令还有更多有趣的玩法，后续你可以自己探索。
 :::
 
@@ -47,3 +47,7 @@ java -Dfile.encoding=UTF-8 -jar "刚刚下载的jar文件名，例如：paper-1.
 第一次启动很有可能会启动失败，会有类似于 `EULA` 等字样的错误，这个是你需要更改一个 `txt` 文件来代表你同意最终用户协议。
 
 点击功能组的 `服务端配置文件` 选项，将 `eula.txt` 的选项从 `否` 改为 `是`，保存文件
+
+目录
+
+[主页](https://capslock800000.github.io/mcsmanagerdocs)
