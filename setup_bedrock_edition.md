@@ -93,4 +93,5 @@
 这种情况多半是**安全组没放行**，请在**服务商安全组面板放行你的服务端端口**，并在**系统防火墙**一并放行。​ 如果还是无法连接，请联系你的服务商检查网络情况。
 
 ### 目录
-[主页](https://capslock800000.github.io/mcsmanagerdocs)  [java版](https://capslock800000.github.io/mcsmanagerdocs/setup_java_edition)
+
+[主页](https://capslock800000.github.io/mcsmanagerdocs/setup_steam)  [java版](https://capslock800000.github.io/mcsmanagerdocs/setup_java_edition)  [基岩版](https://capslock800000.github.io/mcsmanagerdocs/setup_bedrock_edition)  [Docker安装](https://capslock800000.github.io/mcsmanagerdocs/docker-install)  [其他使用场景](https://capslock800000.github.io/mcsmanagerdocs/setup_any_software)  [使用Docker部署服务器](https://capslock800000.github.io/mcsmanagerdocs/setup_docker_image)  [一键部署java版](https://capslock800000.github.io/mcsmanagerdocs/setup_package)  [部署steam游戏服务器](https://capslock800000.github.io/mcsmanagerdocs/setup_steam)
