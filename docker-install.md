@@ -94,3 +94,7 @@ docker run \
 执行指令 `cat <CHANGE_ME_TO_INSTALL_PATH>/daemon/data/Config/global.json` 可以查看守护进程密钥。
 
 具体流程可以参考：[连接其他机器](./advanced/distributed.html)
+
+### 目录
+
+[java版](https://capslock800000.github.io/mcsmanagerdocs/setup_java_edition)  [基岩版](https://capslock800000.github.io/mcsmanagerdocs/setup_bedrock_edition)  [Docker安装](https://capslock800000.github.io/mcsmanagerdocs/docker-install)  [其他使用场景](https://capslock800000.github.io/mcsmanagerdocs/setup_any_software)  [使用Docker部署服务器](https://capslock800000.github.io/mcsmanagerdocs/setup_docker_image)  [一键部署java版](https://capslock800000.github.io/mcsmanagerdocs/setup_package)  [部署steam游戏服务器](https://capslock800000.github.io/mcsmanagerdocs/setup_steam)
