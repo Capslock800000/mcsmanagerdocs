@@ -46,6 +46,6 @@ tips:
 
 点击功能组的 `服务端配置文件` 选项，将 `eula.txt` 的选项从 `否` 改为 `是`，保存文件
 
-目录
+### 目录
 
-[主页](https://capslock800000.github.io/mcsmanagerdocs)
+[主页](https://capslock800000.github.io/mcsmanagerdocs)  [基岩版](https://capslock800000.github.io/mcsmanagerdocs/setup_bedrock_edition)
