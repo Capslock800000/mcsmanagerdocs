@@ -1,8 +1,7 @@
 # 搭建 Minecraft Java 版服务器
 
-tips
+tips:
 本章节已默认你配置好了 Java 环境，如果没有请参考「一键搭建 Java 版」前半部分章节。
-:::
 
 ## 下载服务端软件
 
@@ -28,9 +27,8 @@ tips
 java -Dfile.encoding=UTF-8 -jar "刚刚下载的jar文件名，例如：paper-1.19.4-516.jar"
 ```
 
-tips
+tips:
 启动命令还有更多有趣的玩法，后续你可以自己探索。
-:::
 
 <br />
 
