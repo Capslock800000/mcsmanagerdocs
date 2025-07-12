@@ -1,6 +1,5 @@
 # 搭建 Minecraft Java 版服务器
 
-tips:
 本章节已默认你配置好了 Java 环境，如果没有请参考「一键搭建 Java 版」前半部分章节。
 
 ## 下载服务端软件
@@ -9,7 +8,6 @@ tips:
 
 这里我们使用 Paper 服务端软件来做示例，以下是一些常见版本：
 
-- [1.18.2](https://api.papermc.io/v2/projects/paper/versions/1.18.2/builds/388/downloads/paper-1.18.2-388.jar)
 - [1.19.4](https://api.papermc.io/v2/projects/paper/versions/1.19.4/builds/524/downloads/paper-1.19.4-524.jar)
 - [1.20.4](https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/389/downloads/paper-1.20.4-389.jar)
 
@@ -47,5 +45,4 @@ tips:
 点击功能组的 `服务端配置文件` 选项，将 `eula.txt` 的选项从 `否` 改为 `是`，保存文件
 
 ### 目录
-
 [主页](https://capslock800000.github.io/mcsmanagerdocs/setup_steam)  [java版](https://capslock800000.github.io/mcsmanagerdocs/setup_java_edition)  [基岩版](https://capslock800000.github.io/mcsmanagerdocs/setup_bedrock_edition)  [Docker安装](https://capslock800000.github.io/mcsmanagerdocs/docker-install)  [其他使用场景](https://capslock800000.github.io/mcsmanagerdocs/setup_any_software)  [使用Docker部署服务器](https://capslock800000.github.io/mcsmanagerdocs/setup_docker_image)  [一键部署java版](https://capslock800000.github.io/mcsmanagerdocs/setup_package)  [部署steam游戏服务器](https://capslock800000.github.io/mcsmanagerdocs/setup_steam)
