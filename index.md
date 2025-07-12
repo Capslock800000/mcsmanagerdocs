@@ -110,4 +110,4 @@ tar --strip-components=1 -xzvf mcsmanager_linux_release.tar.gz
 
 ### 其他页面
 
-[java版](https://capslock800000.github.io/mcsmanagerdocs/setup_java_edition)
+[java版](https://capslock800000.github.io/mcsmanagerdocs/setup_java_edition)  [基岩版]((https://capslock800000.github.io/mcsmanagerdocs/setup_bedrock_edition)
