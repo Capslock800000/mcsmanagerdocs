@@ -16,6 +16,9 @@
 
 <!-- Note：翻译英语时删除中国区提示 -->
 
-:::tip
+tips:
 如果你的服务器在中国大陆地区，你可能需要配置中国 Docker 镜像源，否则将极大的影响你的镜像下载速度。
-:::
+
+### 目录
+
+[java版](https://capslock800000.github.io/mcsmanagerdocs/setup_java_edition)  [基岩版](https://capslock800000.github.io/mcsmanagerdocs/setup_bedrock_edition)  [Docker安装](https://capslock800000.github.io/mcsmanagerdocs/docker-install)  [其他使用场景](https://capslock800000.github.io/mcsmanagerdocs/setup_any_software)  [使用Docker部署服务器](https://capslock800000.github.io/mcsmanagerdocs/setup_docker_image)  [一键部署java版](https://capslock800000.github.io/mcsmanagerdocs/setup_package)  [部署steam游戏服务器](https://capslock800000.github.io/mcsmanagerdocs/setup_steam)
