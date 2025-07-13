@@ -40,7 +40,7 @@ tips:
 
 随后，启动 Minecraft 服务器，如果看见如下信息代表启动成功：
 
-![正常开启后效果](capslock800000.github.io/mcsmanagerdocs/images/zh_cn/java_setup.png)
+![正常开启后效果](capslock800000.github.io/mcsmanagerdocs/images/java_setup.png)
 
 ### 目录
 
